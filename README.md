@@ -10,4 +10,4 @@ Peg insertion example using PyRep and coppeliasim
 ## Editing the scene
 
 - Open CoppeliaSim, open scene file (.ttt), edit tree, save
-Read the [manual](https://www.coppeliarobotics.com/helpFiles/index.html)
+- Read the [manual](https://www.coppeliarobotics.com/helpFiles/index.html)
