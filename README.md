@@ -7,3 +7,6 @@ Peg insertion example using PyRep and coppeliasim
 - Download [CoppeliaSim](https://www.coppeliarobotics.com/)
 - Install [PyRep](https://github.com/stepjam/PyRep)
 
+## Editing the scene
+
+- Open CoppeliaSim, open scene file (.ttt), edit tree, save
