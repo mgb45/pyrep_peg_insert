@@ -1,6 +1,6 @@
 # pyrep_peg_insert
 
-Peg insertion example using pyrep and coppeliasim
+Peg insertion example using PyRep and coppeliasim
 
 ## Installation
 
